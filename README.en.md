@@ -57,11 +57,11 @@ Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 
 
 During the event, we are running a few hands-on-lab workshops for you. After these sessions, you will be able to build your own web applications!
 
-| Topic | Date/Time | Link |
-| :--: | :--: | :--: |
-| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] |
-| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] |
-| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] |
+| Topic | Date/Time | Streaming | Slides | Codes |
+| :--: | :--: | :--: | :--: | :--: |
+| Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [Link][code gce] |
+| Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | [Download][slide mlsa] | [Link][code mlsa] |
+| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] [Download][slide ca] | [Link][code ca] |
 
 
 ## 🛠 Developer Tools Before You Go ##
@@ -75,9 +75,9 @@ During the event, we are running a few hands-on-lab workshops for you. After the
 During the challenge, participants may have technical questions to figure out. Here are MLSA, GCE, CA and many technical mentors from various industry helping you solve your technical challenges.
 <br/>
 
-| <img src="./mentors/chulhyuncho.png" width="150" alt="Chulhyun Cho"/> | <img src="./mentors/suekim.jpg" width="150" alt="Sue Kim"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="Aimee Park"/> | <img src="./mentors/jaylim.jpg" width="150" alt="Jay Lim"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="Minho Yang"/> |
+| <img src="./mentors/chulhyuncho.png" width="150" alt="Chulhyun Cho"/> | <img src="./mentors/suekim.jpg" width="150" alt="Sue Kim"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="Aimee Park"/> | <img src="./mentors/jaylim.jpg" width="150" alt="Jay Lim"/> | <img src="./mentors/minhoryang.jpg" width="150" alt="Minho Ryang"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| General<br/>[Chulhyun Cho](./mentors#chulhyuncho)<br/>Innovation Academy<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Product Management / Planning<br/>[Sue Kim](./mentors#suekim)<br/>Angelhack<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | UX<br/>[Aimee Park](./mentors#aimeepark)<br/>IBM<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Front-end Development<br/>[Jay Lim](./mentors#jaylim)<br/>Market Kurly<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Back-end Development<br/>[Minho Yang](./mentors#minhoyang)<br/>Common Computer<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| General<br/>[Chulhyun Cho](./mentors#chulhyuncho)<br/>Innovation Academy<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Product Management / Planning<br/>[Sue Kim](./mentors#suekim)<br/>Angelhack<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | UX<br/>[Aimee Park](./mentors#aimeepark)<br/>IBM<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Front-end Development<br/>[Jay Lim](./mentors#jaylim)<br/>Market Kurly<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Back-end Development<br/>[Minho Ryang](./mentors#minhoryang)<br/>Common Computer<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 ## 🏅 Awards ##
@@ -135,3 +135,9 @@ Thanks Microsoft for sponsoring this event to run smoothly.
 [live mlsa]: https://youtu.be/Hxkv6AjAisY
 [live gce]: https://youtu.be/e_elLW6uNSc
 [live ca]: https://youtu.be/x3j3mDblqMY
+[slide mlsa]: https://aka.ms/hackalearn/aswa/hol
+[slide gce]: https://aka.ms/hackalearn/gha/hol
+[slide ca]: https://aka.ms/hackalearn/hol/slides
+[code mlsa]: https://aka.ms/hackalearn/aswa/code
+[code gce]: https://aka.ms/hackalearn/gha/code
+[code ca]: https://aka.ms/hackalearn/hol/code

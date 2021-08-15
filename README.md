@@ -57,11 +57,11 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
 
-| 제목 | 일시 | 링크 |
-| :--: | :--: | :--: |
-| [GCE][gce]와 함께하는 깃헙 액션 만들기 | 2021년 8월 3일 (화) 8pm | [바로 가기][live gce] |
-| [MLSA][mlsa]와 함께하는 애저 정적 웹 앱 만들기 | 2021년 8월 5일 (목) 8pm | [바로 가기][live mlsa] |
-| [클라우드 아드보캇][ca]과 함께하는 블로그 사이트 만들기 | 2021년 8월 10일 (화) 8pm | [바로 가기][live ca] |
+| 제목 | 일시 | 스트리밍 | 슬라이드 | 샘플코드 |
+| :--: | :--: | :--: | :--: | :--: |
+| [GCE][gce]와 함께하는 깃헙 액션 만들기 | 2021년 8월 3일 (화) 8pm | [바로 가기][live gce] | [다운로드][slide gce] | [링크][code gce] |
+| [MLSA][mlsa]와 함께하는 애저 정적 웹 앱 만들기 | 2021년 8월 5일 (목) 8pm | [바로 가기][live mlsa] | [다운로드][slide mlsa] | [링크][code mlsa] |
+| [클라우드 아드보캇][ca]과 함께하는 블로그 사이트 만들기 | 2021년 8월 10일 (화) 8pm | [바로 가기][live ca] | [다운로드][slide ca] | [링크][code ca] |
 
 
 ## 🛠 개발 도구 사전 준비사항 ##
@@ -75,9 +75,9 @@ HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함�
 HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 대해 궁금한 점이 있으신가요? 여기 MLSA, GCE, CA 및 다양한 현장 전문가 분들께서 여러분들이 HackaLearn 기간중 겪는 여러가지 기술적인 문제 해결에 멘토링을 해 주실 예정입니다.
 <br/>
 
-| <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhoyang.jpg" width="150" alt="양민호 멘토"/> |
+| <img src="./mentors/chulhyuncho.png" width="150" alt="조철현 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhoryang.jpg" width="150" alt="양민호 멘토"/> |
 | :---: | :---: | :---: | :---: | :---: |
-| 일반<br/>[조철현 멘토](./mentors#chulhyuncho)<br/>이노베이션 아카데미<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 기획<br/>[김수정 멘토](./mentors#suekim)<br/>Angelhack<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | UX<br/>[박정은 멘토](./mentors#aimeepark)<br/>IBM<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 프론트엔드<br/>[임진호 멘토](./mentors#jaylim)<br/>마켓컬리<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 백엔드<br/>[양민호 멘토](./mentors#minhoyang)<br/>커먼컴퓨터<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| 일반<br/>[조철현 멘토](./mentors#chulhyuncho)<br/>(재)이노베이션 아카데미<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 기획<br/>[김수정 멘토](./mentors#suekim)<br/>Angelhack<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | UX<br/>[박정은 멘토](./mentors#aimeepark)<br/>IBM<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 프론트엔드<br/>[임진호 멘토](./mentors#jaylim)<br/>마켓컬리<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 백엔드<br/>[양민호 멘토](./mentors#minhoryang)<br/>커먼컴퓨터<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 ## 🏅 시상 부문 ##
@@ -136,3 +136,9 @@ HackaLearn Korea는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [live mlsa]: https://youtu.be/Hxkv6AjAisY
 [live gce]: https://youtu.be/e_elLW6uNSc
 [live ca]: https://youtu.be/x3j3mDblqMY
+[slide mlsa]: https://aka.ms/hackalearn/aswa/hol
+[slide gce]: https://aka.ms/hackalearn/gha/hol
+[slide ca]: https://aka.ms/hackalearn/hol/slides
+[code mlsa]: https://aka.ms/hackalearn/aswa/code
+[code gce]: https://aka.ms/hackalearn/gha/code
+[code ca]: https://aka.ms/hackalearn/hol/code
